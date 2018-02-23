@@ -27,6 +27,11 @@ Here is a daily checklist to help keep motivated!
 5) Read this article about the author's experience [applying to jobs after a bootcamp](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.tebna33g1).
 6) Study a new [interview question](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/practice/interview-q.html).
 
+## Additional Resources
+- [Tech Interview Prep](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
+- [How are coding camps weak?](https://www.linkedin.com/pulse/how-coding-bootcamps-weak-raymond-gan/)
+- [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+
 # Good Luck!
 
 
