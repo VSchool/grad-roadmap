@@ -19,8 +19,7 @@ Here is a daily checklist to help keep motivated!
 1) Apply to 3-5 jobs
     - Cater your cover letter/resume to the job
     - Direct correspondence is best! Send emails directly to hiring managers and decision-makers
-2) Solve a [code fights]
-(https://codefights.com/) problem!
+2) Solve a [code fights](https://codefights.com/) problem!
 3) Make a new commit on a project
     - Or make an [open source contribution](https://opensource.guide/how-to-contribute/)
 4) Study a new article from the the [Developer's Handbook](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/).
